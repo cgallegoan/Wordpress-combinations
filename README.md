@@ -1,5 +1,5 @@
 # Wordpress-combinations
-Web RPA to automatically create combinations of products in wordpress. Built specifically for espejoled.com products.
+Web Spider to automatically create combinations of products in wordpress. Built specifically for espejoled.com products. Used Python + Selenium
 
 12/03/2021
 
