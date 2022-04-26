@@ -1,6 +1,8 @@
 # Wordpress-combinations
 Web RPA to automatically create combinations of products in wordpress. Built specifically for espejoled.com products.
 
+12/03/2021
+
 1. Enter wordpress admin with webdriver
 2. Write credentials
 3. Navigate to the product / create a new product
